@@ -86,4 +86,4 @@ exclude:
   - CNAME
 
 prose:
-  media: "images/"
+  media: "images"
